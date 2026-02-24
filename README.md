@@ -1,22 +1,11 @@
-# Hospitality Management System
 
-A Core Java desktop application built using Swing and MySQL.
+NEXT MODULE ADDED
 
-## Features
-- Hotel management
-- Guest management
-- Reservation booking
-- JDBC-based database interaction
-- DAO design pattern
+✔ Reservation Screen
+✔ View Hotels using JTable
 
-## Tech Stack
-- Java
-- Swing
-- MySQL
-- JDBC
-
-## How to Run
-1. Import project into Eclipse
-2. Run database.sql in MySQL
-3. Update DB credentials in DBConnection.java
-4. Run MainUI.java
+Run:
+1. Import project
+2. Run database.sql
+3. Update DB credentials
+4. Run MainUI
